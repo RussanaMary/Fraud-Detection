@@ -116,7 +116,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 
 ### Run
 ```bash
-https://github.com/RussanaMary/Fraud-Detection/blob/main/README.md
+https://github.com/RussanaMary/Fraud-Detection
 cd fraud-detection-ml
 python Fraud.py
 ```
